@@ -28,7 +28,7 @@ These pages get included on the index and command page. This allows you to updat
 If you want to change the websites accent colours then edit the following sections within `assets/css/style.css`
 ```CSS
 :root {
-	--bs-accent-rgb: 146,152,193;
+	--bs-accent-rgb: 214,51,132;
 }
 
 /* Button Outline */

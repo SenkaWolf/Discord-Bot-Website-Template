@@ -88,7 +88,7 @@
     <section id="Statics" class="py-5 bg-dark text-light">
         <div class="container">
             <div class="py-2 text-center">
-                <h2>Statics:</h2>
+                <h2>Statistics</h2>
             </div>
             <div class="row align-items-center justify-content-center text-center -5">
                 <div class="col">

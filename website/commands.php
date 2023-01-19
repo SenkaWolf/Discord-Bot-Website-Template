@@ -6,7 +6,7 @@
 	<?php 
 		include("includes/header.php");
 	?>
-    <link href="css/commands.css" rel="stylesheet">
+    <link href="assets/css/commands.css" rel="stylesheet">
 
     <!-- Website Title -->
     <title>Aris Bot</title>
