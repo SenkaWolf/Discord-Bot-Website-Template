@@ -13,7 +13,7 @@ and more pages...
 # Installing
 Download or fork the repo
 
-`git clone https://github.com/Hadi-Koubeissi/Discord-bot-website-template`
+`git clone https://github.com/SenkaWolf/Discord-Bot-Website-Template`
 
 ## Built With: 
 
