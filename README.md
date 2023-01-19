@@ -51,7 +51,7 @@ If you want to change the websites accent colours then edit the following sectio
 }
 
 .btn-accent:hover {
-	color: #000;
+	color: #fff;
 	background-color: #cb0266;
 	border-color: #cb0266;
 }

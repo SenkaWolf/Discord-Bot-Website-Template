@@ -30,7 +30,7 @@
                     <a class="btn btn-accent" href="">Invite Bot</a>
                     <a class="m-2 btn btn-light" href="">Support Server</a>
                 </div>
-                <img class="img-fluid w-50" src="./img/ArisBot.svg" alt="">
+                <img class="img-fluid w-50" src="assets/img/ArisBot.svg" alt="">
             </div>
         </div>
     </section>
@@ -92,7 +92,7 @@
             </div>
             <div class="row align-items-center justify-content-center text-center -5">
                 <div class="col">
-                    <img src="./img/statics.svg" alt="" class="img-fluid d-none d-md-block">
+                    <img src="assets/img/statics.svg" alt="" class="img-fluid d-none d-md-block">
                 </div>
                 <div class="col-sm p-5 h1">
                     <i class="bi bi-hdd-stack text-primary"></i>
