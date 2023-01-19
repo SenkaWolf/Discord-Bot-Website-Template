@@ -1,7 +1,7 @@
     <!-- Navbar -->
     <div class="navbar navbar-expand-md bg-dark navbar-dark">
         <div class="container">
-            <a href="index" class="navbar-brand text-info">Aris Bot</a>
+            <a href="index" class="navbar-brand text-accent-colour">Aris Bot</a>
 
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainmenu"><span
                     class="navbar-toggler-icon"></span></button>
@@ -22,7 +22,7 @@
                         </ul>
                     </li>
                 </ul>
-                <li class="navbar-nav nav-item"><a href="#" class="btn btn-outline-info">Login</a></li>
+                <li class="navbar-nav nav-item"><a href="#" class="btn btn-outline-accent">Login</a></li>
             </div>
         </div>
     </div>

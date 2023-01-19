@@ -24,10 +24,10 @@
         <div class="container">
             <div class="d-flex">
                 <div>
-                    <h1><span class="text-info">Aris</span> Bot</h1>
+                    <h1><span class="text-accent-colour">Aris</span> Bot</h1>
                     <p>Aris Bot is an integrated bot that separates you from the rest of the bots and everything you
                         need is in it.</p>
-                    <a class="btn btn-info" href="">Invite Bot</a>
+                    <a class="btn btn-accent" href="">Invite Bot</a>
                     <a class="m-2 btn btn-light" href="">Support Server</a>
                 </div>
                 <img class="img-fluid w-50" src="./img/ArisBot.svg" alt="">
@@ -49,7 +49,7 @@
                             <i class="bi bi-clock-history"></i>
                         </div>
                         <div class="card-body text-center">
-                            <h4 class="card-title text-info">Easy to Use</h4>
+                            <h4 class="card-title text-accent-colour">Easy to Use</h4>
                             <p class="card-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae
                                 illo nihil nesciunt cum sequi rem.</p>
                         </div>
@@ -61,7 +61,7 @@
                             <i class="bi bi-capslock-fill"></i>
                         </div>
                         <div class="card-body text-center">
-                            <h4 class="card-title text-info">24/7 Online</h4>
+                            <h4 class="card-title text-accent-colour">24/7 Online</h4>
                             <p class="card-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae
                                 illo nihil nesciunt cum sequi rem.</p>
                         </div>
@@ -73,7 +73,7 @@
                             <i class="bi bi-folder2-open"></i>
                         </div>
                         <div class="card-body text-center">
-                            <h4 class="card-title text-info">Open Source</h4>
+                            <h4 class="card-title text-accent-colour">Open Source</h4>
                             <p class="card-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae
                                 illo nihil nesciunt cum sequi rem.</p>
                         </div>

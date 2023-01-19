@@ -1,3 +1,42 @@
+
+/* EDIT THE BELOW RGB AND HEX TO CHANGE THE ACCENT COLOURS */
+
+:root {
+	--bs-accent-rgb: 146,152,193;
+}
+
+/* Button Outline */
+.btn-outline-accent {
+	color: #d63384;
+	border-color: #d63384;
+}
+
+.btn-outline-accent:hover {
+	color: #fff;
+	background-color: #d63384;
+	border-color: #d63384;
+}
+
+/* Button */
+.btn-accent {
+	color: #000;
+	background-color: #d63384;
+	border-color: #d63384;
+}
+
+.btn-accent:hover {
+	color: #000;
+	background-color: #cb0266;
+	border-color: #cb0266;
+}
+
+/* Text Colour */
+.text-accent-colour {
+	--bs-text-opacity: 1;
+	color: rgba(var(--bs-accent-rgb),var(--bs-text-opacity))!important;
+}
+
+/* --------------------------------------------------------------------------------------------------------------------- */
 .footer-clean {
   padding:50px 0;
   color:#f8f9fa;
