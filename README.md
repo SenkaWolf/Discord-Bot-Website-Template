@@ -11,9 +11,7 @@ Stunning website template with a basic UI design for any new Discord bots projec
 and more pages...
 
 # Installing
-Download or fork the repo
-
-`git clone https://github.com/SenkaWolf/Discord-Bot-Website-Template`
+Click Code then press download ZIP. Once you have the ZIP file extract the files and upload the website folder contents to your servers websites root folder via FTP. Or use whatever method you prefer.
 
 ## Built With: 
 

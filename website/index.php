@@ -2,54 +2,24 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="./css/bootstrap.min.css" rel="stylesheet">
-    <link href="./css/style.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
-    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-    <link rel="shortcut icon" href="./img/" type="image/x-icon">
+
+	<?php 
+		include("includes/header.php");
+	?>
+
+    <!-- Website Title -->
     <title>Aris Bot</title>
 </head>
 
 <body>
 
     <!-- Navbar -->
-
-    <div class="navbar navbar-expand-md bg-dark navbar-dark">
-        <div class="container">
-            <a href="" class="navbar-brand text-info">Aris Bot</a>
-
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainmenu"><span
-                    class="navbar-toggler-icon"></span></button>
-
-            <div class="collapse navbar-collapse" id="mainmenu">
-                <ul class="navbar-nav mx-auto">
-                    <li class="nav-item"><a href="#Features" class="nav-link">Features</a></li>
-                    <li class="nav-item"><a href="#Statics" class="nav-link">Statics</a></li>
-                    <li class="nav-item"><a href="#FAQ" class="nav-link">Ask me</a></li>
-                    <li class="nav-item"><a href="./pages/commands.html" class="nav-link">Commands</a></li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="linksdrop" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">Links</a>
-                        <ul class="dropdown-menu bg-dark" aria-labelledby="linksdrop">
-                            <li><a class="dropdown-item text-muted" href="">Invite</a></li>
-                            <li><a class="dropdown-item text-muted" href="">Github</a></li>
-                            <li><a class="dropdown-item text-muted" href="">Support Server</a></li>
-                        </ul>
-                    </li>
-                </ul>
-                <li class="navbar-nav nav-item"><a href="" class="btn btn-outline-info">Login</a></li>
-            </div>
-        </div>
-    </div>
+	<?php 
+		include("includes/navbar.php");
+	?>
 
 
     <!-- Info -->
-
-
     <section class="bg-dark text-light text-center py-5">
         <div class="container">
             <div class="d-flex">
@@ -67,8 +37,6 @@
 
 
     <!-- Features -->
-
-
     <section  id="Features" class="py-5">
         <div class="container">
             <h2 class="text-center mb-4">
@@ -117,8 +85,6 @@
 
 
     <!-- Statics -->
-
-
     <section id="Statics" class="py-5 bg-dark text-light">
         <div class="container">
             <div class="py-2 text-center">
@@ -150,11 +116,10 @@
 
 
     <!-- FAQ -->
-
     <section id="FAQ" class="py-5">
         <div class="container">
             <h2 class="text-center mb-3">
-                Frequently Asked Qusetions
+                Frequently Asked Questions
             </h2>
             <div class="accordion accordion-flush" id="your-faq">
                 <div class="accordion-item">
@@ -193,51 +158,14 @@
 
 
     <!-- footer -->
+	<?php 
+		include("includes/footer.php");
+	?>
 
-    <div class="footer-clean bg-dark">
-    <footer>
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-sm-4 col-md-3 item">
-                    <h3>Quick access</h3>
-                    <ul>
-                        <li><a href="#Features">Features</a></li>
-                        <li><a href="#Statics">Statics</a></li>
-                        <li><a href="#FAQ">Ask me</a></li>
-                    </ul>
-                </div>
-                <div class="col-sm-4 col-md-3 item">
-                    <h3>About</h3>
-                    <ul>
-                        <li><a href="./pages/commands.html">Commands</a></li>
-                        <li><a href="#">Team</a></li>
-                        <li><a href="#">License</a></li>
-                    </ul>
-                </div>
-                <div class="col-sm-4 col-md-3 item">
-                    <h3>Links</h3>
-                    <ul>
-                        <li><a href="#">Support server</a></li>
-                        <li><a href="#">Invite bot</a></li>
-                        <li><a href="#">Github</a></li>
-                    </ul>
-                </div>
-                <div class="col-lg-3 item social"><a href="#"><ion-icon name="logo-discord"></ion-icon></a><a href="#"><ion-icon name="logo-facebook"></ion-icon></a><a href="#"><ion-icon name="logo-twitter"></ion-icon></a><a href="#"><ion-icon name="logo-instagram"></ion-icon></a>
-                    <p class="copyright">Aris Bot © 2022</p>
-                </div>
-            </div>
-        </div>
-        <div class="page-footer font-small text-light mt-5">
-        <div class="footer-copyright text-center">Made with 💖 by
-            <a href="https://github.com/Hadi-koubeissi/">Hadi Koubeissi</a>
-            © 2022 Copyright
-          </div>
-        </div>
-    </footer>
-</div>
-
-    <script src="./js/bootstrap.bundle.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!-- Javascript -->
+	<?php 
+		include("includes/javascript.php");
+	?>
 </body>
 
 </html>

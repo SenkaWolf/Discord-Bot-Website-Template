@@ -1,0 +1,44 @@
+##
+# Apache .htaccess template
+##
+
+# Disable directory browsing
+Options -Indexes
+
+# Prevent viewing of .htaccess file
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+
+# Redirect All Web Traffic HTTP to HTTPS
+# Change the domain below to suit yours
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.yourdomain.com/$1 [R,L]
+
+# Hide html & php file extensions
+Options +FollowSymLinks -MultiViews
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{DOCUMENT_ROOT}/$1.php -f
+RewriteRule ^(.+?)/?$ /$1.php [L]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{DOCUMENT_ROOT}/$1.html -f
+RewriteRule ^(.+?)/?$ /$1.html [L]
+
+
+# UNCOMMENT ErrorDocument LINK TO USE CUSTOM ERROR PAGES. MAKE SURE YOU HAVE  FILES WHICH MATCH THE SPECIFIED BELOW
+# Custom 403 errors
+#ErrorDocument 403 403.php
+
+# Custom 404 errors
+#ErrorDocument 404 404.php
+
+# Custom 500 errors
+#rrorDocument 500 500.php
+
+## End of file .htaccess ##
