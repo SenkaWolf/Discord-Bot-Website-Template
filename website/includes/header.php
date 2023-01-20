@@ -18,3 +18,6 @@
     <!-- Scripts -->
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+    <!-- Dynamically Setting navbar pages as active - DO NOT EDIT -->
+    <?php $pname = basename($_SERVER['PHP_SELF']);  $page = str_replace(".php","",$pname);?>

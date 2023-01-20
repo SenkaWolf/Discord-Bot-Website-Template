@@ -16,7 +16,7 @@
 
     <!-- Navbar -->
 	<?php 
-		include("includes/navbar.php");
+		include("includes/navbar-pages.php");
 	?>
 
     <!-- Page Content -->
