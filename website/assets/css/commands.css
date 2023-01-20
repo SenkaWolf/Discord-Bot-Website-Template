@@ -27,10 +27,11 @@ nav {
 	animation: topToDown 1.5s ease-in;
 }
 
+/* Removed so navbar doesn't have a underline on commands page
 .active {
 	text-decoration: underline;
 }
-
+*/
 .navbar-logo {
 	position: relative;
 	bottom: 6px;

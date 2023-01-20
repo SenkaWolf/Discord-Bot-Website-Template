@@ -28,7 +28,7 @@
                         </ul>
                     </div>
                     <div class="col-lg-3 item social"><a href="#"><ion-icon name="logo-discord"></ion-icon></a><a href="#"><ion-icon name="logo-facebook"></ion-icon></a><a href="#"><ion-icon name="logo-twitter"></ion-icon></a><a href="#"><ion-icon name="logo-instagram"></ion-icon></a>
-                        <p class="copyright">Aris Bot &copy; 2023 - <?php echo date("Y"); ?></p>
+                        <p class="copyright">Aris Bot &copy; 2021 - <?php echo date("Y"); ?></p>
                     </div>
                 </div>
             </div>

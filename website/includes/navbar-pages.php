@@ -9,9 +9,9 @@
             <div class="collapse navbar-collapse" id="mainmenu">
                 <ul class="navbar-nav mx-auto">
                     <li class="nav-item"><a href="index" class="nav-link">Home</a></li>
-                    <li class="nav-item"><a href="#Features" class="nav-link">Features</a></li>
-                    <li class="nav-item"><a href="#Statics" class="nav-link">Statics</a></li>
-                    <li class="nav-item"><a href="#FAQ" class="nav-link">Ask me</a></li>
+                    <li class="nav-item"><a href="index#Features" class="nav-link">Features</a></li>
+                    <li class="nav-item"><a href="index#Statics" class="nav-link">Statics</a></li>
+                    <li class="nav-item"><a href="index#FAQ" class="nav-link">Ask me</a></li>
                     <li class="nav-item"><a href="commands" class="nav-link <?php if($page == 'commands'){ echo 'active';}?>">Commands</a></li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="linksdrop" role="button"
