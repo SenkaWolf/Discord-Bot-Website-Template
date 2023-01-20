@@ -5,10 +5,10 @@ Demo: https://demo-discordbot-website-template.senkawolf.com
 
 ## Main Page:
 
-![Screenshot1](https://raw.githubusercontent.com/Hadi-Koubeissi/Discord-bot-website-template/Main/assets/Screenshot.PNG)
+![Screenshot1](https://raw.githubusercontent.com/SenkaWolf/Discord-Bot-Website-Template/Main/screenshots/index.png)
 
 ## Command Page:
-![Screenshot4](https://raw.githubusercontent.com/Hadi-Koubeissi/Discord-bot-website-template/Main/assets/Screen2.PNG)
+![Screenshot4](https://raw.githubusercontent.com/SenkaWolf/Discord-Bot-Website-Template/Main/screenshots/commands.png)
 
 and more pages...
 
