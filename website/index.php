@@ -8,7 +8,7 @@
 	?>
 
     <!-- Website Title -->
-    <title>Aris Bot</title>
+    <title>Aris Bot | Home</title>
 </head>
 
 <body>

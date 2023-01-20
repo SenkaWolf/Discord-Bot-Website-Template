@@ -9,7 +9,7 @@
     <link href="assets/css/commands.css" rel="stylesheet">
 
     <!-- Website Title -->
-    <title>Aris Bot</title>
+    <title>Aris Bot | Commands</title>
 </head>
 
 <body>

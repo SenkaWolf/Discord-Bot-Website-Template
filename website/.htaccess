@@ -36,7 +36,7 @@ RewriteRule ^(.+?)/?$ /$1.html [L]
 #ErrorDocument 403 403.php
 
 # Custom 404 errors
-#ErrorDocument 404 404.php
+ErrorDocument 404 404.php
 
 # Custom 500 errors
 #rrorDocument 500 500.php
