@@ -36,6 +36,26 @@
 	color: rgba(var(--bs-accent-rgb),var(--bs-text-opacity))!important;
 }
 
+/* Scrollbar Colours */
+::-webkit-scrollbar {
+	width: 10px;
+	color: #ffffff;
+}
+
+::-webkit-scrollbar-track {
+	background: #212529;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #d63384;
+	border-radius: 30px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: #cb0266;
+}
+
+/* No need to edit past this point unless you want to make the theme more unique */
 /* --------------------------------------------------------------------------------------------------------------------- */
 .footer-clean {
   padding:50px 0;
@@ -105,24 +125,6 @@ hr {
   background-color: #2b2d30;
   color: #fff;
   margin-left: 9px;
-}
-
-::-webkit-scrollbar {
-	width: 10px;
-	color: #ffffff;
-}
-
-::-webkit-scrollbar-track {
-	background: #212529;
-}
-
-::-webkit-scrollbar-thumb {
-	background: #4856ee;
-	border-radius: 30px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-	background: #3c48c5;
 }
 
 ::placeholder {
