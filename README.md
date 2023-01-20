@@ -1,6 +1,8 @@
 # Discord Bots Website Template
 Stunning website template with a basic UI design for any new Discord bots projects or can be adapted to suit any need. It is built with Bootstrap and comes with some ready-made pages.
 
+Demo: https://demo-discordbot-website-template.senkawolf.com
+
 ## Main Page:
 
 ![Screenshot1](https://raw.githubusercontent.com/Hadi-Koubeissi/Discord-bot-website-template/Main/assets/Screenshot.PNG)
