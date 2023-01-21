@@ -88,6 +88,11 @@ hr {
 	border-color: #d63384;
 }
 
+/* The colour outline when you focus on the search box */
+.search-box:focus {
+	border: 2px solid #d63384;
+}
+
 /* No need to edit past this point unless you want to make the theme more unique */
 /* --------------------------------------------------------------------------------------------------------------------- */
 .footer-clean {

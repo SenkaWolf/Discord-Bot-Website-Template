@@ -8,10 +8,9 @@
 	color: #ffffff !important;
 }
 
-/* The colour when hover over a section in "Select Commands Category" */
-.btn-primary:hover {
-	background-color: #d633842e !important;
-	border: 1px solid #d633842e !important;
+/* Select Commands Category buttons text colour when you hover */
+.btn:hover {
+	color: #fff !important;
 }
 
 /* No need to edit past this point unless you want to make the theme more unique */
@@ -88,12 +87,7 @@ nav {
 .card {
 	background-color: var(--card-background);
 }
-.btn-primary {
-	text-align: left;
-	background-color: transparent;
-	border: 1px solid transparent;
-	color: #b1b1b1;
-}
+
 .active-btn {
 	background-color: #3f4cd8;
 	color: #ffffff;

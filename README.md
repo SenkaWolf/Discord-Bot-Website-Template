@@ -1,4 +1,5 @@
 ![Last Commit](https://img.shields.io/github/last-commit/SenkaWolf/Discord-Bot-Website-Template?style=for-the-badge) ![Open Issues](https://img.shields.io/github/issues/SenkaWolf/Discord-Bot-Website-Template?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/SenkaWolf/Discord-Bot-Website-Template?style=for-the-badge)
+Please Support Me: [![](https://www.paypal.me/SenkaWolf)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mudlabs/shieldsio/endpoint/badges/paypal-me.json)
 
 # Discord Bots Website Template
 Stunning website template with a basic UI design for any new Discord bots projects or can be adapted to suit any need. It is built with Bootstrap and comes with some ready-made pages.
@@ -139,6 +140,12 @@ hr {
 	background-color: #d63384;
 	border-color: #d63384;
 }
+
+/* The colour outline when you focus on the search box */
+.search-box:focus {
+	border: 2px solid #d63384;
+}
+
 ```
 
 ## Authors
@@ -149,5 +156,3 @@ Modified By [Senka Wolf](https://github.com/SenkaWolf)
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
-Support Me: ![https://www.paypal.me/SenkaWolf](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mudlabs/shieldsio/endpoint/badges/paypal-me.json)
