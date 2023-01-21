@@ -27,7 +27,12 @@
                             <li><a href="#">Github</a></li>
                         </ul>
                     </div>
-                    <div class="col-lg-3 item social"><a href="#"><i class="fa-brands fa-discord"></i></a><a href="#"><ion-icon name="logo-facebook"></ion-icon></a><a href="#"><ion-icon name="logo-twitter"></ion-icon></a><a href="#"><ion-icon name="logo-instagram"></ion-icon></a>
+                    <div class="col-lg-3 item social">
+                        <a href="#"><i class="fa-brands fa-discord"></i></a>
+                        <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                        <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                        <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                        
                         <p class="copyright">Aris Bot &copy; 2021 - <?php echo date("Y"); ?></p>
                     </div>
                 </div>
