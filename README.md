@@ -1,4 +1,4 @@
-![Last Commit](https://img.shields.io/github/last-commit/SenkaWolf/Discord-Bot-Website-Template?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/SenkaWolf/Discord-Bot-Website-Template?style=for-the-badge) ![Open Issues](https://img.shields.io/github/issues/SenkaWolf/Discord-Bot-Website-Template?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/SenkaWolf/Discord-Bot-Website-Template?style=for-the-badge)
 
 # Discord Bots Website Template
 Stunning website template with a basic UI design for any new Discord bots projects or can be adapted to suit any need. It is built with Bootstrap and comes with some ready-made pages.
