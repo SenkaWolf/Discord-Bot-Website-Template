@@ -6,24 +6,30 @@ Stunning website template with a basic UI design for any new Discord bots projec
 Demo: https://demo-discordbot-website-template.senkawolf.com
 
 ## Changes Made to this fork
-* Folder restructure.
-* Code layout tweaks.
-* Converted pages to php.
-* Made header, navbars, footer and javascript includes to reduce repeated code in files.
-* PHP code added to set active class on navbar.
-* PHP code added to auto increment the copyright year.
-* Removed text-info & text-primary bootstrap classes from pages and specified custom ones for easier colour rebranding using style.css.
-* Moved all accent colour CSS code to the top of style.css for easier modification.
-* Additional comments added across files for easier understanding on how the code works or what the code is used for.
-* Added fontawesome v6.2.1.
-	* Command page used fontawesome icons however it wasn't setup orginally.
-* Changed Bootstrap icons to fontawesome icons.
-* Fixed spelling mistakes.
-* Improved some alignments of certian elements.
+* Basic Edits
+	* Fixed spelling mistakes.
+	* Folder restructure.
+	* Additional comments added across files for easier understanding on how the code works or what the code is used for.
+* Code Edits
+	* Code layout tweaks.
+	* Improved some alignments of certian elements.
+	* Converted pages to php.
+	* Made header, navbars, footer and javascript includes to reduce repeated code in files.
+	* PHP code added to set active class on navbar.
+	* PHP code added to auto increment the copyright year.
+* CSS Edits
+	* Removed text-info & text-primary bootstrap classes from pages and specified custom ones for easier colour rebranding using style.css.
+	* Moved all accent colour CSS code to the top of style.css for easier modification.
+	* Added fontawesome v6.2.1.
+		* Command page used fontawesome icons however it wasn't setup orginally.
+		* Changed Bootstrap icons to fontawesome icons.
+* Other Edits
+	* Apache htaccess file added.
 
 ## Screenshots
 
 ![Index](https://raw.githubusercontent.com/SenkaWolf/Discord-Bot-Website-Template/Main/screenshots/index.png)
+![Index 2](https://raw.githubusercontent.com/SenkaWolf/Discord-Bot-Website-Template/Main/screenshots/index2.png)
 ![Commands](https://raw.githubusercontent.com/SenkaWolf/Discord-Bot-Website-Template/Main/screenshots/commands.png)
 ![404 Error](https://raw.githubusercontent.com/SenkaWolf/Discord-Bot-Website-Template/Main/screenshots/404.png)
 
