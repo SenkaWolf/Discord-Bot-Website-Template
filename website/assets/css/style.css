@@ -1,11 +1,12 @@
 
 /* EDIT THE BELOW RGB AND HEX TO CHANGE THE ACCENT COLOURS */
 
+/* Main Text accent colour */
 :root {
 	--bs-accent-rgb: 214,51,132;
 }
 
-/* Button Outline */
+/* Button with Outline */
 .btn-outline-accent {
 	color: #d63384;
 	border-color: #d63384;
@@ -17,7 +18,7 @@
 	border-color: #d63384;
 }
 
-/* Button */
+/* Solid Button */
 .btn-accent {
 	color: #000;
 	background-color: #d63384;
