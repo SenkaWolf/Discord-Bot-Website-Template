@@ -47,15 +47,15 @@
                 <div class="card p-3">
                     <h5>Select Commands Category</h5>
                     <hr />
-                    <button onclick="active(this)" id="CategoryBtnAll" class="text-decoration-none btn btn-primary mt-2 my-1 p-2"><i class="fa-solid fa-icons ttt"></i>&nbsp; All Commands</button>
+                    <button onclick="active(this)" id="CategoryBtnAll" class="text-decoration-none btn btn-commandscategory mt-2 my-1 p-2"><i class="fa-solid fa-icons ttt"></i>&nbsp; All Commands</button>
                     
-                        <button onclick="active(this)" id="CategoryBtn0" class="text-decoration-none btn btn-primary mt-2 my-1 p-2"><i class='fa-solid fa-gavel ttt'></i>&nbsp; Moderation Commands</button>
+                        <button onclick="active(this)" id="CategoryBtn0" class="text-decoration-none btn btn-commandscategory mt-2 my-1 p-2"><i class='fa-solid fa-gavel ttt'></i>&nbsp; Moderation Commands</button>
                     
-                        <button onclick="active(this)" id="CategoryBtn1" class="text-decoration-none btn btn-primary mt-2 my-1 p-2"><i class='fas fa-globe-europe ttt'></i>&nbsp; General Commands</button>
+                        <button onclick="active(this)" id="CategoryBtn1" class="text-decoration-none btn btn-commandscategory mt-2 my-1 p-2"><i class='fas fa-globe-europe ttt'></i>&nbsp; General Commands</button>
                     
-                        <button onclick="active(this)" id="CategoryBtn2" class="text-decoration-none btn btn-primary mt-2 my-1 p-2"><i class='fa-solid fa-ranking-star ttt'></i>&nbsp;&nbsp; Leveling Commands</button>
+                        <button onclick="active(this)" id="CategoryBtn2" class="text-decoration-none btn btn-commandscategory mt-2 my-1 p-2"><i class='fa-solid fa-ranking-star ttt'></i>&nbsp;&nbsp; Leveling Commands</button>
                     
-                        <button onclick="active(this)" id="CategoryBtn3" class="text-decoration-none btn btn-primary mt-2 my-1 p-2"><i class='fas fas fa-crown ttt'></i>&nbsp;&nbsp; Premium Commands</button>
+                        <button onclick="active(this)" id="CategoryBtn3" class="text-decoration-none btn btn-commandscategory mt-2 my-1 p-2"><i class='fas fas fa-crown ttt'></i>&nbsp;&nbsp; Premium Commands</button>
                     
                 </div>
             </div>

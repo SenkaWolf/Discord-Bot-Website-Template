@@ -1,6 +1,8 @@
 
 /* EDIT THE BELOW RGB AND HEX TO CHANGE THE ACCENT COLOURS */
 
+/* -- INDEX CSS -- */
+
 /* Main Text accent colour */
 :root {
 	--bs-accent-rgb: 214,51,132;
@@ -55,11 +57,35 @@
 	background: #cb0266;
 }
 
+
+/* -- Commands CSS -- */
+
 /* Change the horizontal rule (line) on command page */
 hr {
   border: 1px solid #d63384;
   margin: 1rem;
   opacity: .25;
+}
+
+/* Select Commands Category buttons */
+.btn-commandscategory {
+	text-align: left;
+	background-color: transparent;
+	border: 1px solid transparent;
+	color: #b1b1b1;
+}
+
+/* The colour when hover over a Commands Category button */
+.btn-commandscategory:hover {
+	background-color: #d633842e;
+	border: 1px solid #d633842e;
+}
+
+/* The colour when a Commands Category button is active */
+.btn-check:active+.btn-commandscategory,.btn-check:checked+.btn-commandscategory,.btn-commandscategory.active,.btn-commandscategory:active,.show>.btn-commandscategory.dropdown-toggle {
+	color: #fff;
+	background-color: #d63384;
+	border-color: #d63384;
 }
 
 /* No need to edit past this point unless you want to make the theme more unique */

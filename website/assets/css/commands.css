@@ -1,3 +1,21 @@
+
+/* EDIT THE BELOW RGB AND HEX TO CHANGE THE ACCENT COLOURS */
+
+/* The colour when you expand a commands Usage Examples */
+.accordion-button:focus,
+.accordion-button:active {
+	background-color: #d633842e !important;
+	color: #ffffff !important;
+}
+
+/* The colour when hover over a section in "Select Commands Category" */
+.btn-primary:hover {
+	background-color: #d633842e !important;
+	border: 1px solid #d633842e !important;
+}
+
+/* No need to edit past this point unless you want to make the theme more unique */
+/* --------------------------------------------------------------------------------------------------------------------- */
 * {
 	padding: 0;
 	margin: 0;
@@ -100,10 +118,6 @@ nav {
 	background-color: rgb(248, 68, 68);
 }
 
-.btn-primary:hover {
-	background-color: #121b2c;
-	border: 1px solid #121b2c;
-}
 .premium-tag {
 	background: linear-gradient(90deg, #3f4cd8 0%, #5773cf 100%);
 	border: 1px solid #343ea5;
@@ -139,11 +153,6 @@ nav {
 	background-color: #2f2f30 !important;
 	color: #ffffff !important;
 	border-radius: 8px !important;
-}
-.accordion-button:focus,
-.accordion-button:active {
-	background-color: #212c42 !important;
-	color: #ffffff !important;
 }
 
 .accordion-button:focus {
