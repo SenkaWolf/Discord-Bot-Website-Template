@@ -28,6 +28,7 @@ Demo: https://demo-discordbot-website-template.senkawolf.com
 		* Changed Bootstrap icons to fontawesome icons.
 * Other Edits
 	* Apache htaccess file added.
+	* Updated jquery from 3.2.1 to 3.6.3 & self hosted js file.
 
 ## Screenshots
 
