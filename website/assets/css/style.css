@@ -56,6 +56,13 @@
 	background: #cb0266;
 }
 
+/* Change the horizontal rule (line) on command page */
+hr {
+  border: 1px solid #d63384;
+  margin: 1rem;
+  opacity: .25;
+}
+
 /* No need to edit past this point unless you want to make the theme more unique */
 /* --------------------------------------------------------------------------------------------------------------------- */
 .footer-clean {
@@ -117,11 +124,7 @@
   font-size:13px;
   opacity:0.6;
 }
-hr {
-  border: 1px solid aqua;
-  margin: 1rem;
-  opacity: .25;
-}
+
 .card {
   background-color: #2b2d30;
   color: #fff;

@@ -116,9 +116,6 @@ nav {
 	padding: 8px 10px;
 	text-decoration: none;
 }
-hr {
-	border: 1px solid #626bcc;
-}
 
 .search-box {
 	background-color: #2f2f30;
@@ -163,25 +160,6 @@ hr {
 }
 .examples {
 	color: #8b8b8b;
-}
-
-
-::-webkit-scrollbar {
-	width: 10px;
-	color: #ffffff;
-}
-
-::-webkit-scrollbar-track {
-	background: var(--background-main-color);
-}
-
-::-webkit-scrollbar-thumb {
-	background: var(--main-color);
-	border-radius: 30px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-	background: #3c48c5;
 }
 
 ::placeholder {
