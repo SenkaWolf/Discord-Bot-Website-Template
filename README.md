@@ -61,6 +61,11 @@ If you want to change the websites accent colours then edit the following sectio
 	--bs-accent-rgb: 214,51,132;
 }
 
+.text-accent-colour {
+	--bs-text-opacity: 1;
+	color: rgba(var(--bs-accent-rgb),var(--bs-text-opacity))!important;
+}
+
 /* Button with Outline */
 .btn-outline-accent {
 	color: #d63384;
@@ -86,12 +91,6 @@ If you want to change the websites accent colours then edit the following sectio
 	border-color: #cb0266;
 }
 
-/* Text Colour */
-.text-accent-colour {
-	--bs-text-opacity: 1;
-	color: rgba(var(--bs-accent-rgb),var(--bs-text-opacity))!important;
-}
-
 /* Scrollbar Colours */
 ::-webkit-scrollbar {
 	width: 10px;
@@ -109,6 +108,13 @@ If you want to change the websites accent colours then edit the following sectio
 
 ::-webkit-scrollbar-thumb:hover {
 	background: #cb0266;
+}
+
+/* Change the horizontal rule (line) on command page */
+hr {
+  border: 1px solid #d63384;
+  margin: 1rem;
+  opacity: .25;
 }
 ```
 

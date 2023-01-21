@@ -6,6 +6,11 @@
 	--bs-accent-rgb: 214,51,132;
 }
 
+.text-accent-colour {
+	--bs-text-opacity: 1;
+	color: rgba(var(--bs-accent-rgb),var(--bs-text-opacity))!important;
+}
+
 /* Button with Outline */
 .btn-outline-accent {
 	color: #d63384;
@@ -29,12 +34,6 @@
 	color: #fff;
 	background-color: #cb0266;
 	border-color: #cb0266;
-}
-
-/* Text Colour */
-.text-accent-colour {
-	--bs-text-opacity: 1;
-	color: rgba(var(--bs-accent-rgb),var(--bs-text-opacity))!important;
 }
 
 /* Scrollbar Colours */
