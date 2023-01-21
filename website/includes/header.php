@@ -15,6 +15,11 @@
     <link href="assets/css/style.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
 
+    <!-- load all Font Awesome v6 styles -->
+    <link href="assets/fontawesome/css/all.css" rel="stylesheet">
+    <!-- support v4 icon references/syntax -->
+    <link href="assets/fontawesome/css/v4-shims.css" rel="stylesheet">
+
     <!-- Scripts -->
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>

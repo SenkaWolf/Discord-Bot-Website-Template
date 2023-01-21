@@ -21,6 +21,7 @@ If you already have a `.htaccess` setup then remove the one which comes with thi
 
 * [Bootstrap](https://getbootstrap.com/) - The web framework used
 * [Jquery](https://jquery.com/) - For scripts
+* [Font Awesome 6 v6.2.1](https://fontawesome.com) - For Icons
 
 ## How To Use
 
