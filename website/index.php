@@ -95,17 +95,17 @@
                     <img src="assets/img/statics.svg" alt="" class="img-fluid d-none d-md-block">
                 </div>
                 <div class="col-sm p-5 h1">
-                    <i class="bi bi-hdd-stack text-accent-colour"></i>
+                    <i class="fa-solid fa-server text-accent-colour"></i>
                     <h5>100</h5>
                     <h5>Server</h5>
                 </div>
                 <div class="col-sm p-5 h1">
-                    <i class="bi bi bi-people-fill text-accent-colour"></i>
+                    <i class="fa-solid fa-user-group text-accent-colour"></i>
                     <h5>100</h5>
                     <h5>Users</h5>
                 </div>
                 <div class="col-sm p-5 h1">
-                    <i class="bi bi bi-hash text-accent-colour"></i>
+                    <i class="fa-solid fa-hashtag text-accent-colour"></i>
                     <h5>100</h5>
                     <h5>Channels</h5>
                 </div>
