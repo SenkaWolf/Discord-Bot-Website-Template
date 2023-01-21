@@ -126,3 +126,5 @@ Modified By [Senka Wolf](https://github.com/SenkaWolf)
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+Support Me: ![https://www.paypal.me/SenkaWolf](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mudlabs/shieldsio/endpoint/badges/paypal-me.json)
