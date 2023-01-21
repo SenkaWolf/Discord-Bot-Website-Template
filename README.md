@@ -1,4 +1,5 @@
 ![Last Commit](https://img.shields.io/github/last-commit/SenkaWolf/Discord-Bot-Website-Template?style=for-the-badge) ![Open Issues](https://img.shields.io/github/issues/SenkaWolf/Discord-Bot-Website-Template?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/SenkaWolf/Discord-Bot-Website-Template?style=for-the-badge)
+
 Please Support Me: [![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mudlabs/shieldsio/endpoint/badges/paypal-me.json)](https://www.paypal.me/SenkaWolf)
 
 
