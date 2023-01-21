@@ -234,7 +234,7 @@
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="flush-headingOne">
                                         <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#freactionrole">
-                                            <span class='badge badge-vip rounded-pill'><i class='far fa-crown'></i></span>&nbsp; /reactionrole&nbsp; <span class="command-descreption">- start the setup process for creating a reaction role</span>
+                                            <span class='badge badge-vip rounded-pill'><i class='fas fas fa-crown'></i></span>&nbsp; /reactionrole&nbsp; <span class="command-descreption">- start the setup process for creating a reaction role</span>
                                         </button>
                                     </h2>
                                     <div id="freactionrole" class="accordion-collapse collapse" data-bs-parent="#reactionrole">
@@ -255,7 +255,7 @@
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="flush-headingOne">
                                         <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#fslowmode">
-                                            <span class='badge badge-vip rounded-pill'><i class='far fa-crown'></i></span>&nbsp; /slowmode&nbsp; <span class="command-descreption">- add slowmode for a channel</span>
+                                            <span class='badge badge-vip rounded-pill'><i class='fas fas fa-crown'></i></span>&nbsp; /slowmode&nbsp; <span class="command-descreption">- add slowmode for a channel</span>
                                         </button>
                                     </h2>
                                     <div id="fslowmode" class="accordion-collapse collapse" data-bs-parent="#slowmode">
@@ -285,7 +285,6 @@
     <!-- Javascript -->
     <input id="commands" value="[{&#34;title&#34;:&#34;&lt;i class=&#39;fas fa-gift ttt&#39;&gt;&lt;/i&gt;&amp;nbsp; Moderation Commands&#34;,&#34;commands&#34;:[&#34;ban&#34;,&#34;kick&#34;,&#34;mute&#34;]},{&#34;title&#34;:&#34;&lt;i class=&#39;fas fa-globe-europe ttt&#39;&gt;&lt;/i&gt;&amp;nbsp; General Commands&#34;,&#34;commands&#34;:[&#34;help&#34;,&#34;ping&#34;,&#34;invite&#34;]},{&#34;title&#34;:&#34;&lt;i class=&#39;fas fa-hammer-war ttt&#39;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp; Leveling Commands&#34;,&#34;commands&#34;:[&#34;leaderboard&#34;]},{&#34;title&#34;:&#34;&lt;i class=&#39;fas fas fa-crown ttt&#39;&gt;&lt;/i&gt;&amp;nbsp; Premium Commands&#34;,&#34;commands&#34;:[&#34;reactionrole&#34;,&#34;slowmode&#34;]}]" hidden />
     <script src="https://unpkg.com/scrollreveal"></script>
-    <script src="/fontawesome/all.min.js"></script>
     <script src="/js/animation.js"></script>
     <script>
         function active(elm){
