@@ -67,7 +67,7 @@ hr {
   opacity: .25;
 }
 
-/* Select Commands Category buttons */
+/* Select Commands Category buttons - You don't need to edit this section*/
 .btn-commandscategory {
 	text-align: left;
 	background-color: transparent;
@@ -77,8 +77,8 @@ hr {
 
 /* The colour when hover over a Commands Category button */
 .btn-commandscategory:hover {
-	background-color: #d633842e;
-	border: 1px solid #d633842e;
+	background-color: #d633842e; /* Make sure this colour is about 75% opaque for good looking results */
+	border: 1px solid #d633842e; /* Make sure this colour is about 75% opaque for good looking results */
 }
 
 /* The colour when a Commands Category button is active */

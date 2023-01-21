@@ -56,7 +56,6 @@ These pages get included on the index and command page. This allows you to updat
 
 If you want to change the websites accent colours then edit the following sections within `assets/css/style.css`
 ```CSS
-/* Main Text accent colour */
 :root {
 	--bs-accent-rgb: 214,51,132;
 }
@@ -110,11 +109,35 @@ If you want to change the websites accent colours then edit the following sectio
 	background: #cb0266;
 }
 
+
+/* -- Commands CSS -- */
+
 /* Change the horizontal rule (line) on command page */
 hr {
   border: 1px solid #d63384;
   margin: 1rem;
   opacity: .25;
+}
+
+/* Select Commands Category buttons - You don't need to edit this section*/
+.btn-commandscategory {
+	text-align: left;
+	background-color: transparent;
+	border: 1px solid transparent;
+	color: #b1b1b1;
+}
+
+/* The colour when hover over a Commands Category button */
+.btn-commandscategory:hover {
+	background-color: #d633842e; /* Make sure this colour is about 75% opaque for good looking results */
+	border: 1px solid #d633842e; /* Make sure this colour is about 75% opaque for good looking results */
+}
+
+/* The colour when a Commands Category button is active */
+.btn-check:active+.btn-commandscategory,.btn-check:checked+.btn-commandscategory,.btn-commandscategory.active,.btn-commandscategory:active,.show>.btn-commandscategory.dropdown-toggle {
+	color: #fff;
+	background-color: #d63384;
+	border-color: #d63384;
 }
 ```
 
