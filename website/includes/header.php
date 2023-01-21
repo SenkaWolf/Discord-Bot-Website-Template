@@ -13,7 +13,6 @@
     <!-- CSS -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
 
     <!-- load all Font Awesome v6 styles -->
     <link href="assets/fontawesome/css/all.css" rel="stylesheet">
