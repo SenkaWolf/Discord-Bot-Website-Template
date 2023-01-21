@@ -46,7 +46,7 @@
                 <div class="col-sm">
                     <div class="card bg-dark text-light mb-3">
                         <div class="h1 mt-3">
-                            <i class="bi bi-clock-history"></i>
+                            <i class="fa-solid fa-clock-rotate-left"></i>
                         </div>
                         <div class="card-body text-center">
                             <h4 class="card-title text-accent-colour">Easy to Use</h4>
@@ -58,7 +58,7 @@
                 <div class="col-sm">
                     <div class="card bg-dark text-light mb-3">
                         <div class="h1 mt-3">
-                            <i class="bi bi-capslock-fill"></i>
+                            <i class="fa-solid fa-arrow-up-from-bracket"></i>
                         </div>
                         <div class="card-body text-center">
                             <h4 class="card-title text-accent-colour">24/7 Online</h4>
@@ -70,7 +70,7 @@
                 <div class="col-sm">
                     <div class="card bg-dark text-light mb-3">
                         <div class="h1 mt-3">
-                            <i class="bi bi-folder2-open"></i>
+                            <i class="fa-solid fa-folder-open"></i>
                         </div>
                         <div class="card-body text-center">
                             <h4 class="card-title text-accent-colour">Open Source</h4>
