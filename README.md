@@ -116,6 +116,10 @@ If you want to change the websites accent colours then edit the following sectio
 	background: #cb0266;
 }
 
+/* border colours */
+.border-accent {
+	border-color: #d63384!important;
+}
 
 /* -- Commands CSS -- */
 
