@@ -20,6 +20,8 @@ Demo: https://demo-discordbot-website-template.senkawolf.com
 	* Made header, navbars, footer and javascript includes to reduce repeated code in files.
 	* PHP code added to set active class on navbar.
 	* PHP code added to auto increment the copyright year.
+	* Fixed FAQ collape animation
+	* Added a Terms of Service page
 * CSS Edits
 	* Removed text-info & text-primary bootstrap classes from pages and specified custom ones for easier colour rebranding using style.css.
 	* Moved all accent colour CSS code to the top of style.css for easier modification.
@@ -35,6 +37,7 @@ Demo: https://demo-discordbot-website-template.senkawolf.com
 ![Index](https://raw.githubusercontent.com/SenkaWolf/Discord-Bot-Website-Template/Main/screenshots/index.png)
 ![Index 2](https://raw.githubusercontent.com/SenkaWolf/Discord-Bot-Website-Template/Main/screenshots/index2.png)
 ![Commands](https://raw.githubusercontent.com/SenkaWolf/Discord-Bot-Website-Template/Main/screenshots/commands.png)
+![Terms of Service](https://raw.githubusercontent.com/SenkaWolf/Discord-Bot-Website-Template/Main/screenshots/tos.png)
 ![404 Error](https://raw.githubusercontent.com/SenkaWolf/Discord-Bot-Website-Template/Main/screenshots/404.png)
 
 
