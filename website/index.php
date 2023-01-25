@@ -128,8 +128,10 @@
                             Question One
                         </button>
                     </h5>
-                    <div class="accordion-collapse collapse p-3" id="answer-1" data-bs-parent="#your-faq">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae libero cumque, obcaecati soluta voluptatibus in!
+                    <div class="accordion-collapse collapse" id="answer-1" data-bs-parent="#your-faq">
+                        <div class="p-3">
+                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae libero cumque, obcaecati soluta voluptatibus in!
+                        </div>
                     </div>
                 </div>
                 <div class="accordion-item">
@@ -138,8 +140,10 @@
                             Question Two
                         </button>
                     </h5>
-                    <div class="accordion-collapse collapse p-3" id="answer-2" data-bs-parent="#your-faq">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae libero cumque, obcaecati soluta voluptatibus in!
+                    <div class="accordion-collapse collapse" id="answer-2" data-bs-parent="#your-faq">
+                        <div class="p-3">
+                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae libero cumque, obcaecati soluta voluptatibus in!
+                        </div>
                     </div>
                 </div>
                 <div class="accordion-item">
@@ -148,8 +152,10 @@
                             Question Three
                         </button>
                     </h5>
-                    <div class="accordion-collapse collapse p-3" id="answer-3" data-bs-parent="#your-faq">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae libero cumque, obcaecati soluta voluptatibus in!
+                    <div class="accordion-collapse collapse" id="answer-3" data-bs-parent="#your-faq">
+                        <div class="p-3">
+                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae libero cumque, obcaecati soluta voluptatibus in!
+                        </div>
                     </div>
                 </div>
             </div>
