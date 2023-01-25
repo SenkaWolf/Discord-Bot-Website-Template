@@ -16,7 +16,7 @@
                         <ul>
                             <li><a href="commands">Commands</a></li>
                             <li><a href="#">Team</a></li>
-                            <li><a href="#">License</a></li>
+                            <li><a href="tos">Terms of Service</a></li>
                         </ul>
                     </div>
                     <div class="col-sm-4 col-md-3 item">

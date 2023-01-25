@@ -57,6 +57,10 @@
 	background: #cb0266;
 }
 
+/* border colours */
+.border-accent {
+	border-color: #d63384!important;
+}
 
 /* -- Commands CSS -- */
 
