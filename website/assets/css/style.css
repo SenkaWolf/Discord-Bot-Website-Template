@@ -97,6 +97,12 @@ hr {
 	border: 2px solid #d63384;
 }
 
+/* Navbar Dropdown Hover */
+.dropdown-item:focus,.dropdown-item:hover {
+	color: #fff!important;
+	background-color: #d63384!important;
+}
+
 /* No need to edit past this point unless you want to make the theme more unique */
 /* --------------------------------------------------------------------------------------------------------------------- */
 .footer-clean {

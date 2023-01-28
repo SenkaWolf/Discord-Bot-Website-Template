@@ -10,7 +10,7 @@
                 <ul class="navbar-nav mx-auto">
                     <li class="nav-item"><a href="index" class="nav-link <?php if($page == 'index'){ echo 'active';}?>">Home</a></li>
                     <li class="nav-item"><a href="#Features" class="nav-link">Features</a></li>
-                    <li class="nav-item"><a href="#Statics" class="nav-link">Statics</a></li>
+                    <li class="nav-item"><a href="#Statistics" class="nav-link">Statistics</a></li>
                     <li class="nav-item"><a href="#FAQ" class="nav-link">Ask me</a></li>
                     <li class="nav-item"><a href="commands" class="nav-link">Commands</a></li>
                     <li class="nav-item dropdown">

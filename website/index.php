@@ -84,8 +84,8 @@
     </section>
 
 
-    <!-- Statics -->
-    <section id="Statics" class="py-5 bg-dark text-light">
+    <!-- Statistics -->
+    <section id="Statistics" class="py-5 bg-dark text-light">
         <div class="container">
             <div class="py-2 text-center">
                 <h2>Statistics</h2>

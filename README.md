@@ -156,6 +156,11 @@ hr {
 	border: 2px solid #d63384;
 }
 
+/* Navbar Dropdown Hover */
+.dropdown-item:focus,.dropdown-item:hover {
+	color: #fff!important;
+	background-color: #d63384!important;
+}
 ```
 
 ## Authors
